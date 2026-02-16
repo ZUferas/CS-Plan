@@ -45,3 +45,4 @@ This repository contains a small React + Vite + Tailwind app that helps students
 - Gemini features will show a helpful message when the API key is not configured.
 - UI is RTL/Arabic and mobile friendly.
 
+Link to Vercel : https://cs-plan-zu.vercel.app/
